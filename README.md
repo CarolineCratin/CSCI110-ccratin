@@ -1,2 +1,2 @@
-# CSCI110 - Beggingin Programming with Python
-# section?
+# CSCI110 - Begginning Programming with Python
+section?
