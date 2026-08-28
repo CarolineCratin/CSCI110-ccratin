@@ -13,7 +13,7 @@
     | :----------     | :------------------------------------------------------------------- |
     | **Name**        | Assignment 00 - stdIO                                                |
     | **Self Grade**  | 16/20                                                                |
-    | **Notes**       | completed the solution, didn't have time to write test cases         |
+    | **Notes**       | no image                                                             |
 
     ## Labs
 
