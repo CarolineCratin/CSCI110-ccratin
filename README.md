@@ -34,9 +34,9 @@
 
 |             |                                                                          |
 | :---------- | :----------------------------------------------------------------------- |
-| **Name**        | L00-setup                                                            |
+| **Name**        | L02-math                                                            |
 | **Self Grade**  | 20/20                                                                |
-| **Notes**       | completed all the requirements                                       |
+| **Notes**       | YIPPEE                                       |
 
 
 
