@@ -38,5 +38,11 @@
 | **Self Grade**  | 20/20                                                                |
 | **Notes**       | YIPPEE                                       |
 
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
+| **Name**        | G02-math                                                             |
+| **Self Grade**  | 20/20                                                                |
+| **Notes**       | we worked well through it and it got done :D                         |
+
 
 
