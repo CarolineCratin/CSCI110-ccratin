@@ -56,5 +56,12 @@
 | **Self Grade**  | 20/20                                                                |
 | **Notes**       | we worked well through it and it got done :D                         |
 
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
+| **Name**        | G03-functions                                                             |
+| **Self Grade**  | 20/20                                                                |
+| **Notes**       | we did it and used our new skills                         |
+
+
 
 
