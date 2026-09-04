@@ -9,3 +9,4 @@ b = b*2
 c = b - a
 #testing output
 print(c)
+#no outside resorses. you :O
