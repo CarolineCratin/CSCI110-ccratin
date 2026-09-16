@@ -74,6 +74,10 @@
 | **Self Grade**  | 20/20                                                                |
 | **Notes**       | we did it and used our new skills                         |
 
-
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
+| **Name**        | G04-unit tests                                                             |
+| **Self Grade**  | 20/20                                                                |
+| **Notes**       | all steps completed and we worked together to solve problems         |
 
 
