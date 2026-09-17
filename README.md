@@ -80,4 +80,10 @@
 | **Self Grade**  | 20/20                                                                |
 | **Notes**       | all steps completed and we worked together to solve problems         |
 
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
+| **Name**        | G05-conditionals                                                             |
+| **Self Grade**  | 20/20                                                                |
+| **Notes**       | () good great yipp yahoo         |
+
 
