@@ -64,6 +64,12 @@
 
 |             |                                                                          |
 | :---------- | :----------------------------------------------------------------------- |
+| **Name**        | L05-conditionals                                                            |
+| **Self Grade**  | 20/20                                                                |
+| **Notes**       | imagine a thumbs up emoji                                      |
+
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
 | **Name**        | G02-math                                                             |
 | **Self Grade**  | 20/20                                                                |
 | **Notes**       | we worked well through it and it got done :D                         |
@@ -84,6 +90,6 @@
 | :---------- | :----------------------------------------------------------------------- |
 | **Name**        | G05-conditionals                                                             |
 | **Self Grade**  | 20/20                                                                |
-| **Notes**       | () good great yipp yahoo         |
+| **Notes**       | (Jae) good great yipp yahoo         |
 
 
