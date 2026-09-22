@@ -84,6 +84,6 @@
 | :---------- | :----------------------------------------------------------------------- |
 | **Name**        | G05-conditionals                                                             |
 | **Self Grade**  | 20/20                                                                |
-| **Notes**       | (Jae) good great yipp yahoo         |
+| **Notes**       | (Jae's repository) good great yipp yahoo         |
 
 
