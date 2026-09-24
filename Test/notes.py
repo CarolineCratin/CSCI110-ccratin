@@ -61,3 +61,4 @@ else:
 
 #a=a+2 is the same as a+=2 its a condenced version
 #% modulo - 5%2 = 1 or 9%5 = 4
+
