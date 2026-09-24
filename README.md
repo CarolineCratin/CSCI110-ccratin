@@ -92,4 +92,9 @@
 | **Self Grade**  | 20/20                                                                |
 | **Notes**       | (Jae's repository) good great yipp yahoo         |
 
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
+| **Name**        | G06-loops                                                           |
+| **Self Grade**  | 30/30                                                                |
+| **Notes**       | we struggled so great         |
 
