@@ -110,3 +110,16 @@
 | **Self Grade**  | 30/30                                                                |
 | **Notes**       | we struggled so great         |
 
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
+| **Name**        | G07-loops                                                           |
+| **Self Grade**  | 30/30                                                                |
+| **Notes**       | we struggled again but we did it         |
+
+|             |                                                                          |
+| :---------- | :----------------------------------------------------------------------- |
+| **Name**        | G08-loops                                                           |
+| **Self Grade**  | 30/30                                                                |
+| **Notes**       | we didn't struggle this time around :D         |
+
+
